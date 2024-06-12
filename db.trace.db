@@ -1,0 +1,3 @@
+2024-06-12 20:42:08.450091+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JOKE1" not found (this database is empty); SQL statement:
+select j1_0.jokeid,j1_0.jokechange,j1_0.jokeinclude,j1_0.joketext from joke1 j1_0 [42104-224]
